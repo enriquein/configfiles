@@ -99,9 +99,13 @@ if [ -f /etc/bash_completion ]; then
 fi
 
 if [ ! "`id -u`" = "0" ]; then
- PS1='[\[\e[0;32m\]\u\[\e[m\]]::\w \$ '
+PS1='
+[\[\033[32m\w$(__git_ps1)\033[0m\]]
+\$ '
 else
- PS1='[\[\e[0;34m\]\u\[\e[m\]]::\w \$ '
+PS1='
+[\[\033[32m\w$(__git_ps1)\033[0m\]]
+\$ '
 fi
 alias tarj='tar -xjf'
 alias tarz='tar -xzf'
