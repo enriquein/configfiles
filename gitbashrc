@@ -8,7 +8,7 @@ alias pico='nano'
 #$ '
 function prompt {
 	local LIGHT_RED="\[\033[1;31m\]"
-	local LIGHT_GREEN="\[\033[1;32m\]"
+	local LIGHT_GREEN="\[\033[0;32m\]"
 	local NO_COLOUR="\[\033[0m\]"
 
 	local TITLEBAR='\[\033]0;\u@\h\007\]'
