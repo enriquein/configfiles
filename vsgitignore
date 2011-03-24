@@ -1,5 +1,6 @@
-bin
-obj
-*.user
+[Bb]in
+[Oo]bj
 *.suo
+*.user
 Thumbs.db
+Desktop.ini
