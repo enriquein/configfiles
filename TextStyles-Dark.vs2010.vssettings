@@ -1,0 +1,597 @@
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_WindowLayout" Category="{eb4ba109-a9db-4445-bd09-e7604bcdce84}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_WindowLayout" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">7</PropertyValue>
+			<PropertyValue name="WindowProfileNames">Design|Debug|NoToolWin</PropertyValue>
+			<Design>
+				<WindowProfile xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:wm="clr-namespace:Microsoft.VisualStudio.Platform.WindowManagement;assembly=Microsoft.VisualStudio.Platform.WindowManagement" Name="Design" xmlns="clr-namespace:Microsoft.VisualStudio.PlatformUI.Shell;assembly=Microsoft.VisualStudio.Shell.ViewManager">
+					<MainSite IsVisible="True">
+						<AutoHideRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
+							<AutoHideChannel Orientation="Vertical" IsVisible="True">
+								<AutoHideGroup IsVisible="True">
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="0" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}" IsVisible="True" DockedHeight="768" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+								</AutoHideGroup>
+								<AutoHideGroup>
+									<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="5" IconResourceID="6650" IconResourcePackage="21af45b0-ffa5-11d0-b63f-00a0c922e851" Name="ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}" DockedHeight="768" DockedWidth="204.8" FloatingHeight="537.6" FloatingWidth="256"/>
+									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}" DockedHeight="768" DockedWidth="204.8" FloatingHeight="537.6" FloatingWidth="256"/>
+								</AutoHideGroup>
+							</AutoHideChannel>
+							<AutoHideChannel Dock="Right" Orientation="Vertical">
+								<AutoHideGroup>
+									<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="1" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" DockedHeight="384" DockedWidth="204.8" FloatingHeight="384" FloatingWidth="204.8"/>
+								</AutoHideGroup>
+							</AutoHideChannel>
+							<AutoHideChannel Dock="Top"/>
+							<AutoHideChannel Dock="Bottom" IsVisible="True">
+								<AutoHideGroup IsVisible="True">
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="15" IconResourceID="6650" IconResourcePackage="4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" IsVisible="True" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="3" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}" IsVisible="True" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="307.2"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0f887920-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="307.2"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0f887921-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="307.2"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="307.2"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}" DockedHeight="192" DockedWidth="1024" FloatingHeight="192" FloatingWidth="307.2"/>
+								</AutoHideGroup>
+								<AutoHideGroup IsVisible="True">
+									<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="0" IconResourceID="301" IconResourcePackage="5fcc8577-4feb-4d04-ad72-d6c629b083cc" Name="ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}" IsVisible="True" DockedHeight="325.67714884696" DockedWidth="861" FloatingTop="773" FloatingLeft="451" FloatingHeight="477" FloatingWidth="869"/>
+								</AutoHideGroup>
+							</AutoHideChannel>
+							<DockRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
+								<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="*" DockedWidth="*">
+									<DockGroup IsVisible="True" DockedHeight="*" DockedWidth="*">
+										<DockGroup Orientation="Vertical" DockedHeight="768" DockedWidth="174.08">
+											<TabGroup DockedHeight="768" DockedWidth="174.08">
+												<ViewBookmark Name="ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}" DockedHeight="768" DockedWidth="174.08"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{1cba9826-3184-4799-a184-784e41b56398}" DockedHeight="768" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{38ed9834-0c97-445b-bd1d-f78f3e08afac}" DockedHeight="768" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{402dc223-d700-4029-866f-acee803f3f0c}" DockedHeight="768" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+											</TabGroup>
+											<TabGroup DockedHeight="768" DockedWidth="174.08">
+												<ViewBookmark Name="ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}" DockedHeight="768" DockedWidth="174.08"/>
+												<ViewBookmark Name="ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}" DockedHeight="768" DockedWidth="174.08"/>
+											</TabGroup>
+										</DockGroup>
+										<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="*" DockedWidth="*">
+											<DocumentGroupContainer IsVisible="True" DockedHeight="*" DockedWidth="*">
+												<DocumentGroup>
+													<wm:ToolWindowView ForceCreate="DontForceCreate" Name="ST:0:0:{387cb18d-6153-4156-9257-9ac3f9207bbe}" FloatingHeight="614.4" FloatingWidth="819.2"/>
+													<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}" FloatingHeight="384" FloatingWidth="512"/>
+												</DocumentGroup>
+											</DocumentGroupContainer>
+											<TabGroup>
+												<ViewBookmark Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"/>
+												<ViewBookmark Name="ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"/>
+												<ViewBookmark Name="ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"/>
+												<ViewBookmark Name="ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"/>
+												<ViewBookmark Name="ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"/>
+												<ViewBookmark Name="ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"/>
+												<ViewBookmark Name="ST:0:0:{0f887920-c2b6-11d2-9375-0080c747d9a0}"/>
+												<ViewBookmark Name="ST:0:0:{0f887921-c2b6-11d2-9375-0080c747d9a0}"/>
+												<ViewBookmark Name="ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"/>
+												<ViewBookmark Name="ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"/>
+												<ViewBookmark Name="ST:0:0:{e830ec50-c2b5-11d2-9375-0080c747d9a0}"/>
+												<ViewBookmark Name="ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}"/>
+												<ViewBookmark Name="ST:0:0:{53024d34-0ef5-11d3-87e0-00c04f7971a5}"/>
+											</TabGroup>
+										</DockGroup>
+										<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="537.6" DockedWidth="245.8">
+											<TabGroup IsVisible="True" DockedWidth="245.8">
+												<wm:ToolWindowView ForceCreate="ForceCreate" IconIndex="2" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}" IsSelected="True" IsVisible="True" DockedWidth="245.8" FloatingHeight="537.6" FloatingWidth="204.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="0" IconResourceID="4" IconResourcePackage="8d8529d3-625d-4496-8354-3dad630ecc1b" Name="ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}" IsVisible="True" DockedWidth="245.8" FloatingHeight="537.6" FloatingWidth="204.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}" DockedWidth="245.8" FloatingHeight="537.6" FloatingWidth="204.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}" DockedWidth="245.8" FloatingHeight="537.6" FloatingWidth="204.8"/>
+											</TabGroup>
+											<TabGroup DockedHeight="384" DockedWidth="245.8">
+												<ViewBookmark Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" DockedHeight="384" DockedWidth="245.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{66dba47c-61df-11d2-aa79-00c04f990343}" DockedHeight="384" DockedWidth="245.8" FloatingHeight="384" FloatingWidth="204.8"/>
+											</TabGroup>
+										</DockGroup>
+									</DockGroup>
+									<ViewBookmark Name="ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"/>
+								</DockGroup>
+							</DockRoot>
+						</AutoHideRoot>
+					</MainSite>
+					<FloatSite FloatingHeight="76.8" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{e830ec50-c2b5-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="1024" FloatingHeight="76.8" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite FloatingTop="73" FloatingLeft="414" FloatingHeight="270" FloatingWidth="361">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="DontForceCreate" IconIndex="7" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}" IsSelected="True" DockedHeight="192" DockedWidth="1024" FloatingTop="73" FloatingLeft="414" FloatingHeight="270" FloatingWidth="361"/>
+					</FloatSite>
+					<FloatSite FloatingHeight="76.8" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{53024d34-0ef5-11d3-87e0-00c04f7971a5}" DockedHeight="192" DockedWidth="1024" FloatingHeight="76.8" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:1:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:2:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:3:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:4:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{ca4b8ff5-bfc7-11d2-9929-00c04f68fdaf}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{51c76317-9037-4cf2-a20a-6206fd30b4a1}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{e62ce6a0-b439-11d0-a79d-00a0c9110051}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{37aba9be-445a-11d3-9949-00c04f68fd0a}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+					<FloatSite FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450">
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
+					</FloatSite>
+				</WindowProfile>
+			</Design>
+			<Debug>
+				<WindowProfile xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:wm="clr-namespace:Microsoft.VisualStudio.Platform.WindowManagement;assembly=Microsoft.VisualStudio.Platform.WindowManagement" Name="Debug" xmlns="clr-namespace:Microsoft.VisualStudio.PlatformUI.Shell;assembly=Microsoft.VisualStudio.Shell.ViewManager">
+					<MainSite IsVisible="True">
+						<AutoHideRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
+							<AutoHideChannel Orientation="Vertical"/>
+							<AutoHideChannel Dock="Right" Orientation="Vertical"/>
+							<AutoHideChannel Dock="Top"/>
+							<AutoHideChannel Dock="Bottom" IsVisible="True">
+								<AutoHideGroup IsVisible="True">
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}" IsVisible="True" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+								</AutoHideGroup>
+								<AutoHideGroup IsVisible="True">
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+									<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="4" IconResourceID="5123" IconResourcePackage="c9dd4a57-47fb-11d2-83e7-00c04f9902c1" Name="ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}" IsVisible="True" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+									<wm:ToolWindowView OnTopWhenLastInContext="False" ForceCreate="ForceCreate" IconIndex="9" IconResourceID="5123" IconResourcePackage="c9dd4a57-47fb-11d2-83e7-00c04f9902c1" Name="ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}" IsVisible="True" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0f887920-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0f887921-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+									<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+								</AutoHideGroup>
+							</AutoHideChannel>
+							<DockRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
+								<DockGroup IsVisible="True" DockedHeight="*" DockedWidth="*">
+									<DockGroup Orientation="Vertical" DockedHeight="768" DockedWidth="174.08">
+										<TabGroup DockedHeight="652.8" DockedWidth="174.08">
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{1cba9826-3184-4799-a184-784e41b56398}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{38ed9834-0c97-445b-bd1d-f78f3e08afac}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{402dc223-d700-4029-866f-acee803f3f0c}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+										</TabGroup>
+										<TabGroup DockedHeight="768" DockedWidth="174.08">
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}" DockedHeight="768" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="256"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}" DockedHeight="768" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="256"/>
+										</TabGroup>
+									</DockGroup>
+									<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="*" DockedWidth="*">
+										<TabGroup DockedHeight="153.6" DockedWidth="819.2">
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:1:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:2:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:3:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:4:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{ca4b8ff5-bfc7-11d2-9929-00c04f68fdaf}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{51c76317-9037-4cf2-a20a-6206fd30b4a1}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{e62ce6a0-b439-11d0-a79d-00a0c9110051}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{37aba9be-445a-11d3-9949-00c04f68fd0a}" DockedHeight="153.6" DockedWidth="819.2" FloatingHeight="153.6" FloatingWidth="614.4"/>
+										</TabGroup>
+										<DocumentGroupContainer IsVisible="True" DockedHeight="*" DockedWidth="*">
+											<DocumentGroup>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="DontForceCreate" Name="ST:0:0:{387cb18d-6153-4156-9257-9ac3f9207bbe}" FloatingHeight="614.4" FloatingWidth="819.2"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}" FloatingHeight="384" FloatingWidth="512"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}" FloatingHeight="384" FloatingWidth="358.4"/>
+											</DocumentGroup>
+										</DocumentGroupContainer>
+										<DockGroup DockedHeight="192" DockedWidth="512">
+											<TabGroup DockedHeight="192">
+												<ViewBookmark Name="ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}" DockedHeight="192"/>
+												<ViewBookmark Name="ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}" DockedHeight="192"/>
+												<ViewBookmark Name="ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}" DockedHeight="192"/>
+												<ViewBookmark Name="ST:0:0:{0f887920-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192"/>
+												<ViewBookmark Name="ST:0:0:{0f887921-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192"/>
+												<ViewBookmark Name="ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}" DockedHeight="192"/>
+												<ViewBookmark Name="ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}" DockedHeight="192"/>
+											</TabGroup>
+											<TabGroup DockedHeight="192" DockedWidth="100">
+												<ViewBookmark Name="ST:0:0:{53024d34-0ef5-11d3-87e0-00c04f7971a5}" DockedHeight="192" DockedWidth="100"/>
+												<ViewBookmark Name="ST:0:0:{e830ec50-c2b5-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="100"/>
+												<ViewBookmark Name="ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}" DockedHeight="192" DockedWidth="100"/>
+											</TabGroup>
+											<TabGroup DockedHeight="192" DockedWidth="512">
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="3" IconResourceID="5123" IconResourcePackage="c9dd4a57-47fb-11d2-83e7-00c04f9902c1" Name="ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="16" IconResourceID="6650" IconResourcePackage="da9fb551-c724-11d0-ae1f-00a0c90fffc3" Name="ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}" IsSelected="True" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<ViewBookmark Name="ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}" DockedHeight="192" DockedWidth="512"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+											</TabGroup>
+										</DockGroup>
+									</DockGroup>
+									<TabGroup IsVisible="True" DockedHeight="652.8" DockedWidth="174.08">
+										<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}" IsSelected="True" IsVisible="True" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="0" IconResourceID="4" IconResourcePackage="8d8529d3-625d-4496-8354-3dad630ecc1b" Name="ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{66dba47c-61df-11d2-aa79-00c04f990343}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+									</TabGroup>
+								</DockGroup>
+							</DockRoot>
+						</AutoHideRoot>
+					</MainSite>
+					<FloatSite FloatingHeight="76.8" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{53024d34-0ef5-11d3-87e0-00c04f7971a5}" DockedHeight="100" DockedWidth="100" FloatingHeight="76.8" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite FloatingHeight="76.8" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{e830ec50-c2b5-11d2-9375-0080c747d9a0}" DockedHeight="100" DockedWidth="100" FloatingHeight="76.8" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite FloatingHeight="153.6" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}" DockedHeight="100" DockedWidth="100" FloatingHeight="153.6" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite>
+						<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"/>
+					</FloatSite>
+				</WindowProfile>
+			</Debug>
+			<NoToolWin>
+				<WindowProfile xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:wm="clr-namespace:Microsoft.VisualStudio.Platform.WindowManagement;assembly=Microsoft.VisualStudio.Platform.WindowManagement" Name="NoToolWin" xmlns="clr-namespace:Microsoft.VisualStudio.PlatformUI.Shell;assembly=Microsoft.VisualStudio.Shell.ViewManager">
+					<MainSite IsVisible="True">
+						<AutoHideRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
+							<AutoHideChannel Orientation="Vertical">
+								<AutoHideGroup>
+									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}" DockedHeight="768" DockedWidth="204.8" FloatingHeight="537.6" FloatingWidth="256"/>
+									<wm:ToolWindowView ForceCreate="ForceCreate" Name="ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}" DockedHeight="768" DockedWidth="204.8" FloatingHeight="537.6" FloatingWidth="256"/>
+								</AutoHideGroup>
+							</AutoHideChannel>
+							<AutoHideChannel Dock="Right" Orientation="Vertical"/>
+							<AutoHideChannel Dock="Top"/>
+							<AutoHideChannel Dock="Bottom"/>
+							<DockRoot IsVisible="True" DockedHeight="*" DockedWidth="*">
+								<DockGroup IsVisible="True" DockedHeight="*" DockedWidth="*">
+									<DockGroup Orientation="Vertical" DockedHeight="768" DockedWidth="174.08">
+										<TabGroup DockedHeight="652.8" DockedWidth="174.08">
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{1cba9826-3184-4799-a184-784e41b56398}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{38ed9834-0c97-445b-bd1d-f78f3e08afac}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{402dc223-d700-4029-866f-acee803f3f0c}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="384" FloatingWidth="204.8"/>
+										</TabGroup>
+										<TabGroup DockedHeight="768" DockedWidth="174.08">
+											<ViewBookmark Name="ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}" DockedHeight="768" DockedWidth="174.08"/>
+											<ViewBookmark Name="ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}" DockedHeight="768" DockedWidth="174.08"/>
+										</TabGroup>
+									</DockGroup>
+									<DockGroup Orientation="Vertical" IsVisible="True" DockedHeight="*" DockedWidth="*">
+										<TabGroup DockedHeight="153.6" DockedWidth="819.2">
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:1:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:2:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:3:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:4:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{ca4b8ff5-bfc7-11d2-9929-00c04f68fdaf}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{51c76317-9037-4cf2-a20a-6206fd30b4a1}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{e62ce6a0-b439-11d0-a79d-00a0c9110051}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+											<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{37aba9be-445a-11d3-9949-00c04f68fd0a}" DockedHeight="153.6" DockedWidth="819.2" FloatingTop="76.8" FloatingLeft="204.8" FloatingHeight="153.6" FloatingWidth="614.4"/>
+										</TabGroup>
+										<DocumentGroupContainer IsVisible="True" DockedHeight="*" DockedWidth="*">
+											<DocumentGroup>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="DontForceCreate" Name="ST:0:0:{387cb18d-6153-4156-9257-9ac3f9207bbe}" FloatingHeight="614.4" FloatingWidth="819.2"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}" FloatingHeight="384" FloatingWidth="512"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}" FloatingHeight="384" FloatingWidth="358.4"/>
+											</DocumentGroup>
+										</DocumentGroupContainer>
+										<DockGroup DockedHeight="192" DockedWidth="512">
+											<TabGroup DockedHeight="192" DockedWidth="512">
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0f887920-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0f887921-c2b6-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="614.4"/>
+											</TabGroup>
+											<TabGroup DockedHeight="192" DockedWidth="100">
+												<ViewBookmark Name="ST:0:0:{53024d34-0ef5-11d3-87e0-00c04f7971a5}" DockedHeight="192" DockedWidth="100"/>
+												<ViewBookmark Name="ST:0:0:{e830ec50-c2b5-11d2-9375-0080c747d9a0}" DockedHeight="192" DockedWidth="100"/>
+												<ViewBookmark Name="ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}" DockedHeight="192" DockedWidth="100"/>
+											</TabGroup>
+											<TabGroup DockedHeight="192" DockedWidth="512">
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+												<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}" DockedHeight="192" DockedWidth="512" FloatingHeight="192" FloatingWidth="460.8"/>
+											</TabGroup>
+										</DockGroup>
+									</DockGroup>
+									<TabGroup DockedHeight="652.8" DockedWidth="174.08">
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{66dba47c-61df-11d2-aa79-00c04f990343}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+										<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}" DockedHeight="652.8" DockedWidth="174.08" FloatingHeight="537.6" FloatingWidth="204.8"/>
+									</TabGroup>
+								</DockGroup>
+							</DockRoot>
+						</AutoHideRoot>
+					</MainSite>
+					<FloatSite FloatingHeight="76.8" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{53024d34-0ef5-11d3-87e0-00c04f7971a5}" DockedHeight="100" DockedWidth="100" FloatingHeight="76.8" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite FloatingHeight="76.8" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{e830ec50-c2b5-11d2-9375-0080c747d9a0}" DockedHeight="100" DockedWidth="100" FloatingHeight="76.8" FloatingWidth="337.92"/>
+					</FloatSite>
+					<FloatSite FloatingHeight="153.6" FloatingWidth="337.92">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{cf2ddc32-8cad-11d2-9302-005345000000}" DockedHeight="100" DockedWidth="100" FloatingHeight="153.6" FloatingWidth="337.92"/>
+					</FloatSite>
+				</WindowProfile>
+			</NoToolWin>
+		</Category>
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{2E5C7FFD-9738-4A39-9816-B10231B82AE6}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedText" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="InactiveText" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="DesignerSurface" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="LinkLabel" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ElementTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="NonElementTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Grid" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="GridHead" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="TagType" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{34F54DB8-3D69-4D94-ABD5-BA1D717AB8BE}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{3FFB3681-9B54-42B2-81D5-52453ADF56A6}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Surface" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="LinkLabel" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Shape" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ShapeTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedShapeTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ActiveShapeTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedShapeBorder" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ShapeBorder" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Grid" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="RelationLine" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="RelationLabel" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedRelationLine" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{40660F54-80FA-4375-89A3-8D06AA954EBA}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{45E05167-BEFE-482D-8B9B-0C329EC847DF}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{47724E70-AF55-48FB-A928-BB161C1D0C05}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Line Numbers" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Visible White Space" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Breakpoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="CSS Comment" Foreground="0x01000005" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Keyword" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Name" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Value" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Selector" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS String Value" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute Value" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Comment" Foreground="0x01000005" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Element Name" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Entity" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Operator" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Server-Side Script" Foreground="0x00000000" Background="0x0062EEFF" BoldFont="No"/>
+							<Item Name="HTML Tag Delimiter" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Refactoring Current Field" Foreground="0x02000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="Stale Code" Foreground="0x00951795" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Tracepoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Warning Lines Path" Foreground="0x00A50000" Background="0x0062EEFF" BoldFont="No"/>
+							<Item Name="XML CData Section" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XSLT Keyword" Foreground="0x00AF918F" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{4C889E8A-2BBB-4DC8-AE21-B1E4799D7631}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Diagram Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontName="Fixedsys" FontSize="10" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00F0F0F0" Background="0x00383838" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00808000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{9E632E6E-D786-4F9A-8D3E-B9398836C784}" FontName="Consolas" FontSize="14" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00F0F0F0" Background="0x00383838" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00808000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00383838" BoldFont="No"/>
+							<Item Name="Line Numbers" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Visible White Space" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Bookmark" Foreground="0x0100000B" Background="0x00000080" BoldFont="No"/>
+							<Item Name="Brace Matching (Highlight)" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00008080" BoldFont="No"/>
+							<Item Name="Breakpoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Selected" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Code Snippet Dependent Field" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00800080" BoldFont="Yes"/>
+							<Item Name="Collapsible Text" Foreground="0x00808080" Background="0x01000003" BoldFont="Yes"/>
+							<Item Name="Comment" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Comment" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Keyword" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Name" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Value" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Selector" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS String Value" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Executing Thread IP" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Definition Window Background" Foreground="0x01000002" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Definition Window Current Match" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Element Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Entity" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Server-Side Script" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Tag Delimiter" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Memory Unreadable" Foreground="0x01000002" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x003248DA" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Razor Code" Foreground="0x02000000" Background="0x004F4F4F" BoldFont="No"/>
+							<Item Name="Refactoring Background" Foreground="0x01000002" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Refactoring Current Field" Foreground="0x02000000" Background="0x00000080" BoldFont="No"/>
+							<Item Name="Refactoring Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Keyword" Foreground="0x0062B0FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x0013B38B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Stale Code" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String(C# @ Verbatim)" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Syntax Error" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Task List Shortcut" Foreground="0x00FFFFFF" Background="0x0100000F" BoldFont="No"/>
+							<Item Name="Tracepoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Track Changes after save" Foreground="0x02000000" Background="0x00800000" BoldFont="No"/>
+							<Item Name="Track Changes before save" Foreground="0x02000000" Background="0x00800080" BoldFont="No"/>
+							<Item Name="User Types" Foreground="0x006DC6FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Delegates)" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Enums)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Interfaces)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Value types)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Visual Basic Read Only Marker" Foreground="0x00000000" Background="0x00E6EFEE" BoldFont="No"/>
+							<Item Name="Warning" Foreground="0x0000FF00" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Warning Lines Path" Foreground="0x00A50000" Background="0x0062EEFF" BoldFont="No"/>
+							<Item Name="XAML Attribute" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Quotes" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Keyword" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x003248DA" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x003248DA" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Doc Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Keyword" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Name" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XSLT Keyword" Foreground="0x00AF918F" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{CE2ECED5-C21C-464C-9B45-15E10E9F9EF9}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{EE1BE240-4E81-4BEB-8EEA-54322B6B1BF5}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
