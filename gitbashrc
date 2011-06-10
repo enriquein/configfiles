@@ -3,6 +3,7 @@ alias tarz='tar -xzf'
 alias cp='cp -v'
 alias la='ls -la'
 alias pico='nano'
+alias explore='explorer . &'
 #PS1='
 #[\[\033[32m\w$(__git_ps1)\033[0m\]]
 #$ '
