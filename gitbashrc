@@ -1,12 +1,14 @@
-alias tarj='tar -xjf'
-alias tarz='tar -xzf'
+export TERM=msys
 alias cp='cp -v'
 alias la='ls -la'
-alias pico='nano'
+alias gff='git flow feature'
 alias explore='explorer . &'
-#PS1='
-#[\[\033[32m\w$(__git_ps1)\033[0m\]]
-#$ '
+alias s='git status'
+alias gg='git gui &'
+alias gtfs='git tfs checkin'
+alias gitk='gitk &'
+alias gl='git log'
+
 function prompt {
 	local LIGHT_RED="\[\033[1;31m\]"
 	local LIGHT_GREEN="\[\033[0;32m\]"
@@ -16,10 +18,12 @@ function prompt {
 
 	export GIT_PS1_SHOWDIRTYSTATE=true
 	export GIT_PS1_SHOWUNTRACKEDFILES=true
-	# export GIT_PS1_SHOWUPSTREAM=auto
+#	export GIT_PS1_SHOWUPSTREAM=true
 	export GIT_PS1_SHOWSTASHSTATE=true
 
-	PS1="$LIGHT_GREEN\n\w/$LIGHT_GREEN\$(__git_ps1 ' (%s)')$LIGHT_RED \n$NO_COLOUR$ "
+	PS1="$LIGHT_GREEN\n[\w/]$LIGHT_GREEN\$(__git_ps1 ' (%s)')$LIGHT_RED \n$NO_COLOUR--> "
+	
 }
 
 prompt
+
